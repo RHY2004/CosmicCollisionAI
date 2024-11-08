@@ -83,6 +83,8 @@ Contributions are welcome! If you would like to contribute, please fork the repo
 - Special thanks to Kagal for providing valuable data for this project.
 
 ## Contact
-For any inquiries or feedback, feel free to reach out to me via GitHub.
+For any inquiries or feedback, feel free to reach out to me via GitHub or Linkedin.
 
+``` https://www.linkedin.com/in/rajhans-yadav-718a1b265/
+    https://github.com/RHY2004
 ```
