@@ -84,7 +84,5 @@ Contributions are welcome! If you would like to contribute, please fork the repo
 
 ## Contact
 For any inquiries or feedback, feel free to reach out to me via GitHub or Linkedin.
-
-``` https://www.linkedin.com/in/rajhans-yadav-718a1b265/
-    https://github.com/RHY2004
-```
+https://www.linkedin.com/in/rajhans-yadav-718a1b265/
+https://github.com/RHY2004
