@@ -19,7 +19,7 @@ To set up the project on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/asteroid-impact-model.git
+   https://github.com/RHY2004/CosmicCollisionAI.git
    cd asteroid-impact-model
    ```
 
