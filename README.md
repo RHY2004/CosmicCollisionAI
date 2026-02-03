@@ -1,5 +1,3 @@
-Here's a template for a README file that you can use to provide clear and informative documentation for your machine learning model project:
-
 ```markdown
 # Asteroid Impact Prediction Model
 
